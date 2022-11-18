@@ -856,6 +856,7 @@ input[type=checkbox], input[type=radio] {
   border-radius: 10%;
   cursor: pointer;
   margin-right: 9px;
+  transition: 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .checkmark{
   position: absolute;
